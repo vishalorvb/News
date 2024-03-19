@@ -93,5 +93,49 @@ export let news = [
             "b3": `SLIIT आशियाई उच्च शिक्षण स`
 
         }
+    },
+
+    {
+        id: 4,
+        english: {
+            headline: `CBSE Practical Exams 2023-24: Delhi DoE Offers Final Chance For Absent Students`,
+            subheading: `CBSE Practical Exams 2023-24: A list of such students has been issued by the DoE, with instructions for them to report in person at Patrachar Vidyalaya.`,
+            date: " March 19, 2024 ",
+            photourl: `https://c.ndtvimg.com/2024-03/8dlso9c_cbse-practical-exams_625x300_19_March_24.png`,
+            b1: `The Directorate of Education (DoE), Delhi, has announced a final opportunity for students of Class XII who were unable to appear in the CBSE practical examinations for the academic session 2023-24 due to various reasons.`,
+            b2: `A list of such students has been issued by the DoE, with instructions for them to report in person at Patrachar Vidyalaya on the specified date and time allocated against their names in the published list.`,
+            b3: `Students availing of this opportunity will have to pay a practical fee of ₹ 1,300 per subject slot. They are required to bring their CBSE admit cards, along with project files/assignments related to the subjects and necessary stationery items.`
+        },
+        marathi: {
+            "headline": "सीबीएसई व्यावसायिक परीक्षा 2023-24: दिल्ली डीओई गैरहाजिर विद्यार्थियों के लिए अंतिम मौका प्रदान करती है",
+            "subheading": "सीबीएसई व्यावसायिक परीक्षा 2023-24: ऐसे विद्यार्थियों की सूची डीओई द्वारा जारी की गई है, जिन्हें व्यक्तिगत रूप से पाट्रचार विद्यालय में रिपोर्ट करने के लिए निर्देश दिए गए हैं।",
+            "date": "19 मार्च, 2024",
+            "photourl": "https://c.ndtvimg.com/2024-03/8dlso9c_cbse-practical-exams_625x300_19_March_24.png",
+            "b1": "दिल्ली के शिक्षा निदेशालय (डीओई), द्वारा विभिन्न कारणों से शैक्षणिक सत्र 2023-24 के लिए सीबीएसई व्यावसायिक परीक्षाओं में शामिल न होने वाले बारहवीं कक्षा के छात्रों के लिए अंतिम अवसर की घोषणा की गई है।",
+            "b2": "ऐसे छात्रों की सूची डीओई द्वारा जारी की गई है, जिन्हें डीओई द्वारा प्रकाशित सूची में उनके नाम के खिलाफ निर्धारित तिथि और समय पर पाट्रचार विद्यालय में रिपोर्ट करने के लिए निर्देश दिए गए हैं।",
+            "b3": "इस अवसर का लाभ उठाने वाले छात्रों को प्रति विषय स्लॉट के लिए ₹ 1,300 का व्यावसायिक शुल्क देना होगा। उन्हें अपने सीबीएसई एडमिट कार्ड्स के साथ, विषयों से संबंधित परियोजना फ़ाइलें / असाइनमेंट्स और आवश्यक स्टेशनरी आइटम्स लेकर आना होगा।"
+
+        }
+    },
+    {
+        id: 5,
+        english: {
+            headline: `Pearl Academy's 'What's Next' Event Spotlights Creativity-Tech Intersection`,
+            subheading: `Pearl Academy's 'What's Next' event centred around the dynamic intersection of creativity and technology, aiming to prepare creative aspirants for the ever-evolving world.`,
+            date: " March 18, 2024 ",
+            photourl: `https://c.ndtvimg.com/2024-03/kj2d4vt8_pearl-academy-2_625x300_18_March_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738`,
+            b1: `India's leading higher education institution, Pearl Academy recently hosted the 2024 edition of its flagship event, What's Next, at Taj West End in Bengaluru. `,
+            b2: `This year's 'What's Next' centred around the dynamic intersection of creativity and technology, aiming to prepare creative aspirants for the ever-evolving world. The event brought together experts from various industries, influential thinkers, design teachers, and professionals to discuss the vast potential of artificial intelligence (AI) and other emerging technologies. Following the World Cafe format, participants engaged in small group discussions on shared topics, facilitating the integration of individual ideas into a unified message.`,
+            b3: `The panel discussions explored how advancements in technology are reshaping the landscape of creativity, from AI-generated art to virtual reality experiences. `
+        },
+        "marathi": {
+            "headline": "पर्ल अकॅडेमीचे 'व्हॅट्स नेक्स्ट' कार्यक्रम सृजनात्मकता-तंत्रज्ञानाचा संगम दर्शवितो",
+            "subheading": "पर्ल अकॅडेमीचे 'व्हॅट्स नेक्स्ट' कार्यक्रम सृजनात्मकता आणि तंत्रज्ञानाच्या अद्यावत गाभर्यावर वचन बोलतो, अनंतर विकसित असलेल्या जगाच्या स्वभावात आहे.",
+            "date": "18 मार्च, 2024",
+            "photourl": "https://c.ndtvimg.com/2024-03/kj2d4vt8_pearl-academy-2_625x300_18_March_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+            "b1": "भारताच्या अग्रणी उच्च शिक्षण संस्था, पर्ल अकॅडेमी हे कार्यक्रमाचा 2024 आवृत्तीत त्याच्या प्रमुख कार्यक्रम 'व्हॅट्स नेक्स्ट' बेंगळूरच्या ताज वेस्ट एंडमध्ये आयोजित केले.",
+            "b2": "या वर्षीच्या 'व्हॅट्स नेक्स्ट'ने सृजनात्मकता आणि तंत्रज्ञानाच्या अद्यावत गाभर्यावर वचन बोलतो, अनंतर विकसित असलेल्या जगाच्या स्वभावात आहे. कार्यक्रमात विविध उद्योगांतील तज्ञ, प्रभावशाली विचारवंत, डिझाईन शिक्षकांचे आणि पेशेवरांचे समावेश होते, जे कृत्रिम बुद्धिमत्ता (एआय) आणि इतर उभारणार्या तंत्रज्ञानांचे विस्तारचे चित्रण करण्याची संधी पुरविणारे होते. जगातील कॅफे फॉर्मॅटानुसार, समर्थक एकत्रीकरणामध्ये सामायिक विषयांवर छोट्या गटांतील मंचांना सक्रिय करण्याचा संधी दिला.",
+            "b3": "पॅनल चर्चांमध्ये तंत्रज्ञानातील प्रगती कसे सृजनात्मकतेच्या भूमिकेचा आकार घेत आहे, याची शोधीची. कृत्रिम बुद्धिमत्ता (एआय) वर आधारित चित्रकला ते व्हर्च्यूअल रिऐलिटी अनुभवांपर्यंत."
+          }
     }
 ]
