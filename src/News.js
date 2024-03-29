@@ -136,6 +136,117 @@ export let news = [
             "b1": "भारताच्या अग्रणी उच्च शिक्षण संस्था, पर्ल अकॅडेमी हे कार्यक्रमाचा 2024 आवृत्तीत त्याच्या प्रमुख कार्यक्रम 'व्हॅट्स नेक्स्ट' बेंगळूरच्या ताज वेस्ट एंडमध्ये आयोजित केले.",
             "b2": "या वर्षीच्या 'व्हॅट्स नेक्स्ट'ने सृजनात्मकता आणि तंत्रज्ञानाच्या अद्यावत गाभर्यावर वचन बोलतो, अनंतर विकसित असलेल्या जगाच्या स्वभावात आहे. कार्यक्रमात विविध उद्योगांतील तज्ञ, प्रभावशाली विचारवंत, डिझाईन शिक्षकांचे आणि पेशेवरांचे समावेश होते, जे कृत्रिम बुद्धिमत्ता (एआय) आणि इतर उभारणार्या तंत्रज्ञानांचे विस्तारचे चित्रण करण्याची संधी पुरविणारे होते. जगातील कॅफे फॉर्मॅटानुसार, समर्थक एकत्रीकरणामध्ये सामायिक विषयांवर छोट्या गटांतील मंचांना सक्रिय करण्याचा संधी दिला.",
             "b3": "पॅनल चर्चांमध्ये तंत्रज्ञानातील प्रगती कसे सृजनात्मकतेच्या भूमिकेचा आकार घेत आहे, याची शोधीची. कृत्रिम बुद्धिमत्ता (एआय) वर आधारित चित्रकला ते व्हर्च्यूअल रिऐलिटी अनुभवांपर्यंत."
-          }
-    }
+        }
+    },
+    {
+        id: 6,
+        english: {
+            headline: `75K schools registered for RTE admissions in state`,
+            subheading: `The admission process will be implemented as per the amendments made to the RTE Act from the academic year 2024-25, and the government has also included government and aided schools under the ambit of RTE`,
+            date: "Mar 26, 2024",
+            photourl: `https://www.hindustantimes.com/ht-img/img/2024/03/25/550x309/The-School-Education-Department-oversees-the-RTE-a_1711396256632.jpg`,
+            b1: `For the academic year 2024-25, 75,039 schools have been registered under the Right to Education Act (RTE) in Maharashtra, with 9,61,668 seats available through the system, according to State Education Board officials.`,
+            b2: `All the schools except minority schools, residential schools and partially aided schools have been registered. As per the information given by the state education department, the school registration data collected for the RTE admission process will be sent to the National Informatics Centre (NIC) for further processing. After that, the student registration process will be started.`,
+            b3: `“Pune district has the state’s highest 4,986 schools registered for RTE admissions with 74,024 available seats under the scheme. After Pune, 4,052 schools have registered in Ahmednagar district and 51,338 students will be admitted here. Although Nashik is ranked third in school registration, admission will be given on 60,296 seats. Although school registration is less than Ahmednagar district, Nashik district has more RTE admission capacity,” said Sharad Gosavi, state director, Primary Education Department.`
+        },
+        "marathi": {
+            "headline": "राज्यात आरटीई प्रवेशासाठी ७५ हजार क्षेत्रीय स्कूल नोंदणीकृत",
+            "subheading": "शैक्षणिक वर्ष २०२४-२५ पासून आरटीई कायद्यात केलेल्या संशोधनानुसार प्रवेश प्रक्रिया कार्यान्वित केली जाईल, आणि सरकारने आरटीईच्या क्षेत्रात सरकारी आणि सहाय्यक स्कूल समावेश केले आहेत",
+            "date": "मार्च २६, २०२४",
+            "photourl": "https://www.hindustantimes.com/ht-img/img/2024/03/25/550x309/The-School-Education-Department-oversees-the-RTE-a_1711396256632.jpg",
+            "b1": "शैक्षणिक वर्ष २०२४-२५साठी, महाराष्ट्रात दाखला घेण्याचा हक्क (आरटीई) अधिनियमाखाली ७५,०३९ स्कूल नोंदणीकृत केले आहेत, ज्यांच्यातून सिस्टमद्वारे ९,६१,६६८ जागा उपलब्ध आहेत, राज्य शैक्षणिक मंडळाच्या अधिकारियांच्या अनुसार.",
+            "b2": "सर्व स्कूल अधिकृत, अंधारच्या स्कूल, वासायुक्त स्कूल आणि आंशिक सहाय्यक स्कूल सहित सर्व स्कूल नोंदणीकृत झालेल्या आहेत. राज्य शिक्षण विभागाने दिलेल्या माहितीनुसार, आरटीई प्रवेश प्रक्रियेसाठी स्कूल नोंदणी डेटा राष्ट्रीय सूचना विज्ञान केंद्र (एनआयसी)ला पुढील प्रक्रियेसाठी पाठविली जाईल. नंतर, विद्यार्थ्यांच्या नोंदणी प्रक्रिया सुरू केली जाईल.",
+            "b3": "“पुणे जिल्ह्यात राज्यातील उच्च ४,९८६ स्कूल आरटीई प्रवेशासाठी नोंदणीकृत आहेत, येथे ७४,०२४ उपलब्ध जागा आहेत. पुण्यानंतर, अहमदनगर जिल्ह्यात ४,०५२ स्कूल नोंदणीकृत आहेत आणि ५१,३३८ विद्यार्थ्यांना इथे प्रवेश दिले जाईल. अहमदनगर जिल्ह्यात स्कूल नोंदणीकृत असूनही, नाशिक जिल्ह्यात प्रवेश दिले जाईल. अहमदनगर जिल्ह्यात प्रवेश दिलेल्या विद्यार्थ्यांच्या प्रमाणानुसार, नाशिक जिल्ह्यात स्कूल नोंदणी कमी आहे, परंतु नाशिक जिल्ह्यातील आरटीई प्रवेश क्षमता जास्त आहे,” म्हणून राज्य प्राथमिक शिक्षा विभागाचे निदेशक शरद गोसावी म्हणाले."
+        }
+    },
+    {
+        id: 7,
+        english: {
+            headline: `VIT, Volvo to introduce automobile course in MTech programme`,
+            date: "March 28, 2024",
+            subheading: `VIT students enrolled in the specialised course will have the opportunity to participate as interns at Volvo and apply for jobs.`,
+            photourl: `https://cache.careers360.mobi/media/article_images/2024/3/28/VIT.webp`,
+            b1: `Vellore Institute of Technology (VIT) has signed an agreement with the Volvo Group India to enhance automotive education in the country. Under the agreement, a specialised credit programme will be introduced within VIT's MTech programme. It will be designed to train students with the latest automotive industry technologies.`,
+            b2: `The agreement was signed between Volvo Group India managing director Kamal Bali and VIT registrar T Jayabarathi in presence of the institute’s chancellor G Viswanathan. The new course will provide MTech students with knowledge of industry technologies, practical skills, and comprehensive understanding of industry trends, best practices, and real-world challenges. The programme includes knowledge sharing opportunities which could include combined classes involving Volvo's technical experts along with VIT's faculty.`,
+            b3: `Students enrolled in the course will also have the opportunity to participate as interns at Volvo. Meritorious students can be potentially hired as post-graduate engineering trainees in Volvo. “These internships will allow students to apply their theoretical knowledge in a real-world setting. Moreover, it will also enable them to kickstart their careers in the automotive sector,” the VIT said`
+        },
+        marathi: {
+            "headline": "VIT, व्होल्व्होने एमटेक कोर्समध्ये ऑटोमोबाइल कोर्स राखण्याची योजना",
+            "date": "मार्च २८, २०२४",
+            "subheading": "व्हीआयटीमध्ये तयार केलेल्या विशेषित कोर्समध्ये नमंत्रित व्हीआयटी विद्यार्थ्यांना व्होल्व्होमध्ये अंतर्गत अंशकालिक काम करण्याचा संधी देण्यात आला आहे आणि पात्र असलेल्या विद्यार्थ्यांना नोकर्यासाठी अर्ज करण्याची संधी दिली आहे.",
+            "photourl": "https://cache.careers360.mobi/media/article_images/2024/3/28/VIT.webp",
+            "b1": "वेल्लोर इंस्टिट्यूट ऑफ टेक्नोलॉजी (व्हीआयटी)ने ऑटोमोबाइल शिक्षणाचे स्तर वाढवण्यासाठी व्होल्व्हो ग्रुप इंडियासह समझौता केला आहे. या समझौत्यांतर्गत, व्हीआयटीच्या एमटेक कोर्समध्ये विशेषित क्रेडिट कोर्स आणखी भरवून टाकला जाईल. हे तंत्रज्ञान विद्यार्थ्यांना शैक्षणिक तंत्रज्ञानाच्या नवीनतम ऑटोमोबाइल उद्योगाच्या तंत्रज्ञानाने प्रशिक्षित करण्यासाठी डिझाईन केला जाईल.",
+            "b2": "या समझौत्यात, व्होल्व्हो ग्रुप इंडिया बद्दलच्या व्यवस्थापक निदेशक कमल बाली आणि व्हीआयटी रजिस्ट्रार टी जयबाराथीच्या साक्षात्कारात आश्रयाच्या छत्रपती जे विश्वनाथन समोर हस्ताक्षर केले गेले. या नवीन कोर्समध्ये एमटेक विद्यार्थ्यांना उद्योग तंत्रज्ञान, व्यावसायिक कौशले, आणि उद्योगाच्या प्रवृत्तिंच्या नवीन चिंतांची, सर्वोत्तम अभ्यासे, आणि वास्तविक जगातील समस्यांचे संपूर्ण समज देण्यात येईल. प्रोग्रॅममध्ये ज्ञान सामायिकीचे संधी शामिल केले जाईल, जे व्होल्व्होच्या तंत्रज्ञानिक माहितीचे संदर्भ घेतलेल्या संयुक्त व्हीआयटीच्या शिक्षकांच्या सहभागाने संचालित केले जातील."
+            ,
+            "b3": `कोर्समध्ये नामंत्रित झालेल्या विद्यार्थ्यांना व्होल्व्होमध्ये अंतर्गत अंशकालिक काम करण्याची संधी दिली जाईल. उत्कृष्ट विद्यार्थ्यांना व्होल्व्होमध्ये नंतर उच्च शिक्षण पदविका प्रशिक्षणार्थी म्हणून काम करण्याची संधी दिली जाऊ शकते. “ह्या इंटर्नशिपमुळे विद्यार्थ्यांना त्यांच्या सिद्धांतांचा वास्तविक जगातील वापर करण्याची संधी दिली जाईल. यापैकी, हे त्यांच्या ऑटोमोबाइल क्षेत्रात करिअर सुरू करण्याची संधी देणारं आहे,” असे व्हीआयटीने म्हणाले.`
+
+        }
+    },
+    //{
+    //    id: 5,
+    //    english: {
+    //        headline: ``,
+    //        "subheading": "",
+    //        date: "",
+    //        photourl: ``,
+    //        b1: ``,
+    //        b2: ``,
+    //        b3: ``
+    //    },
+    //    "marathi": {
+    //        "headline": "",
+    //        "subheading": "",
+    //        "date": "",
+    //        "photourl": "",
+    //        "b1": "",
+    //        "b2": "",
+    //        "b3": ""
+    //    }
+    //},
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//{
+//    id: 5,
+//    english: {
+//        headline: ``,
+//        date: "",
+//        photourl: ``,
+//        b1: ``,
+//        b2: ``,
+//        b3: ``
+//    },
+//    "marathi": {
+//        "headline": "",
+//        "subheading": "",
+//        "date": "",
+//        "photourl": "",
+//        "b1": "",
+//        "b2": "",
+//        "b3": ""
+//      }
+//},
+
+
+
