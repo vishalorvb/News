@@ -182,6 +182,54 @@ export let news = [
 
         }
     },
+
+
+    {
+        id: 8,
+        english: {
+            headline: `Apply for PGDM-BA course at MDI Gurgaon, window closes on April 15`,
+            "subheading": "The 24-month programme is aimed at addressing the need of professionals for successful careers in the business domain.",
+            date: "Mar 29, 2024 ",
+            photourl: `https://www.hindustantimes.com/ht-img/img/2024/03/29/550x309/MDI_1711715442052_1711715442741.jpg`,
+            b1: `The Management Development Institute (MDI) Gurgaon is accepting applications for the first round of its Post Graduate Diploma in Management - Business Administration programme. The application window that began on November 9, 2023, will close on April 15, 2024, at 5 PM. Interested candidates can submit their applications on the official website of MDI Gurgaon before the deadline.`,
+            b2: `According to a press release issued by the institute, the programme is aimed at providing aspiring professionals with a strong foundation in business administration, combining theory and practical experience to develop skills needed in the challenging business field.`,
+            b3: `Notably, the underlying objective behind the 24-month programme is to address the need for professionals for successful careers in the business domain. Students will attain knowledge and opportunities to enhance their managerial tools and techniques through formal, in-class interactions, and more.`
+        },
+        "marathi": {
+            "headline": "MDI गुडगावण्यात PGDM-BA कोर्ससाठी अर्ज करा, खिडकी एप्रिल १५ ला बंद होते",
+            "subheading": "२४ महिन्यांचा कार्यक्रम व्यावसायिक डोमेनमध्ये यशस्वी करिअरसाठी पेशेवरांच्या आवश्यकतेसाठी उद्दिष्ट आहे.",
+            "date": "मार्च २९, २०२४",
+            "photourl": "https://www.hindustantimes.com/ht-img/img/2024/03/29/550x309/MDI_1711715442052_1711715442741.jpg",
+            "b1": "मॅनेजमेंट डेव्हलपमेंट इंस्टिट्यूट (एमडीआय) गुडगावण्यात पहिल्या दुसऱ्या डिप्लोमा इन मॅनेजमेंट - व्यावसायिक प्रशासन कार्यक्रमसाठी अर्ज मागणार आहे. २०२३ नोव्हेंबर ९ ला सुरू झालेल्या अर्जाची अंतिम तारीख २०२४ एप्रिल १५ ला दुपारी ५ वाजता बंद होईल. उत्सुक उमेदवार शेवटच्या अवधीपूर्वक त्यांचे अर्ज एमडीआय गुडगावण्याच्या अधिकृत वेबसाइटवर सबमिट करू शकतात.",
+            "b2": "संस्थेने जाहिरात जारी केल्यानुसार, कार्यक्रमाचा उद्देश उत्साही पेशेवरांना व्यावसायिक प्रशासनात कठीण व्यावसायिक क्षेत्रातील आवश्यक कौशले विकसित करण्याच्या संरचनेसह सुदृढ आधार देणे आहे.",
+            "b3": "अत्यंत महत्वाचं, २४ महिन्यांच्या कार्यक्रमाच्या मूलभूत उद्देश व्यावसायिक डोमेनमध्ये यशस्वी करिअरसाठी पेशेवरांच्या आवश्यकतेसाठी उद्दिष्ट आहे. विद्यार्थ्यांना आधिकारिक, वाचलेल्या प्रवेशने, व अधिक विद्यार्थ्यांच्या टूल्स आणि तंत्रज्ञानाची वाढीसाठी ज्ञान आणि संधी प्राप्त करण्याची संधी दिली जाईल."
+        }
+
+    },
+
+    {
+        id: 9,
+        english: {
+            headline: `4.6 lakh candidates appear for CUET PG 2024; response sheet, answer keys next`,
+            "subheading": "CUET PG 2024: NTA will release the answer keys next. Candidates will be given an opportunity to see their responses to the question papers and to challenge the answer keys.",
+            date: "March 30, 2024",
+            photourl: `https://images.indianexpress.com/2024/03/NEET-1600.jpg?w=640`,
+            b1: `The National Testing Agency (NTA) concluded the Common University Entrance Test Postgraduate (CUET PG) 2024 on March 28. According to data shared by the NTA, CUET PG was conducted for about 4,62,603 unique registered candidates. The candidates applied for various courses which were tested under 157 question paper codes. As many as 7,68,414 were registered for all the papers in CUET PG 2024. Out of which as many as 5,77,400 appeared for the test. `,
+            b2: `The number of registered candidates dropped from last year. In 2023, out of the total registered candidates — 8,77,492 — as many as 5,39,776 appeared, while in the debut edition in 2022, out of the 6,07,648 registered candidates, only 3,34,997 appeared.`,
+            b3: `CUET PG 2024 was held between March 11 and March 23 and then on March 27 and 28 in 572 different centres located in 262 cities including nine cities outside India – Manama, Dubai, Kathmandu, Muscat, Riyadh, Ottawa, Abu Dhabi, Vienna, and Qatar.`
+        },
+        "marathi": {
+            "headline": "CUET PG 2024: 4.6 लाख उमेदवार CUET PG 2024 येथे उपस्थित; प्रतिसाद पत्रिका, उत्तर की पुढे",
+            "subheading": "CUET PG 2024: NTA पुढील उत्तर की जाहीर करेल. उमेदवारांना प्रश्न पत्रांच्या प्रतिसादांचा पाहण्याचा आणि उत्तर की च्या संदर्भात आपल्या आपल्या प्रतिसादांना स्पष्ट करण्याची संधी दिली जाईल.",
+            "date": "मार्च ३०, २०२४",
+            "photourl": "https://images.indianexpress.com/2024/03/NEET-1600.jpg?w=640",
+            "b1": "राष्ट्रीय परीक्षण अभियांत्रिकी (एनटीए)ने मार्च २८ रोजी सामान्य विद्यापीठ प्रवेश परीक्षा पोस्टग्रेजुएट (सीयूईटी पीजी) २०२४ संपन्न केली. एनटीए द्वारे सामायिक केलेल्या आंकडांनुसार, सीयूईटी पीजी १५७ प्रश्नपत्रिका कोड अंतर्गत चालविण्यात आलेल्या विविध पदव्यांसाठी ४,६२,६०३ अद्वितीय नोंदणीकृत उमेदवारांची संख्या होती. उमेदवारांनी सीयूईटी पीजी २०२४ मध्ये सर्व प्रश्नपत्रिकांसाठी ७,६८,४१४ नोंदणी केली होती. त्यामुळे एका जुन्या प्रश्नपत्रिका कोडविषयी अनेक प्रकारच्या पदव्यांसाठी अर्ज केले होते. सीयूईटी पीजी २०२४ मध्ये ५,७७,४०० उमेदवार उपस्थित होते.",
+            "b2": "नोंदणीकृत उमेदवारांची संख्या जास्त होती. २०२३ मध्ये, एकूण नोंदणीकृत उमेदवारांपैकी - ८,७७,४९२ - त्यापैकी ५,३९,७७६ उपस्थित होते, जेणेकरून २०२२ मध्ये प्रस्तावित संस्करणात, ६,०७,६४८ नोंदणीकृत उमेदवारांपैकी फक्त ३,३४,९९७ उपस्थित होते.",
+            "b3": "सीयूईटी पीजी २०२४ मार्च ११ ते मार्च २३ आणि नंतर मार्च २७ आणि २८ रोजी २६२ शहरांमध्ये विविध केंद्रांमध्ये आयोजित केली गेली होती, जिथे २६२ अंतरभारतीय शहरांपैकी ९ शहरांत - मनामा, दुबई, काठमांडू, मस्कट, रियाध, ओटावा, अबू धाबी, वियना, आणि कटार - समाविष्ट आहेत."
+        }
+
+    },
+
     //{
     //    id: 5,
     //    english: {
